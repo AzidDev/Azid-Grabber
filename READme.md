@@ -46,6 +46,6 @@ Builder is a multifunctional tool designed for stealing sensative infomations of
 
 
 ## Disclaimer
-[Include a disclaimer emphasizing ethical use, legal compliance, and responsibility. Discourage misuse or any illegal activities.]
+This project is provided for educational and research purposes only. The author does not condone or encourage any illegal or unethical activities. The misuse of this project is strictly prohibited. The author shall not be held responsible for any damages or liabilities arising from the use of this project. Users are solely responsible for ensuring compliance with applicable laws and ethical standards.
 
 ---
