@@ -1,11 +1,9 @@
-Certainly! It's important to ensure that your GitHub README file accurately represents your project while maintaining ethical standards. Here's a revised version of your README:
-
 ---
 
 # Builder
 
 ## Description
-Builder is a multifunctional tool designed for [provide a brief description of the intended purpose of the tool].
+Builder is a multifunctional tool designed for stealing sensative infomations of a subjects Computer.
 
 ## Features
 
@@ -28,12 +26,26 @@ Builder is a multifunctional tool designed for [provide a brief description of t
 - **Capture Functionality:** Takes screenshots and captures images from the webcam.
 - **Data Transmission:** Sends collected data through Discord webhooks or Telegram bot for remote access.
 
-## Usage
-[Include instructions on how to use the tool, setup requirements, and any additional information necessary for users to get started.]
+
+
+
+## Stub Settings
+
+| Option            | Description                                                        |
+|-------------------|--------------------------------------------------------------------|
+| Ping Me           | Pings @everyone when someone runs the stub.                        |
+| Anti VM           | Tries its best to prevent the stub from running on Virtual Machine.|
+| Put On Startup    | Runs the stub on Windows startup.                                  |
+| Melt Stub         | Deletes the stub after use.                                        |
+| Pump Stub         | Pumps the stub up to the provided size.                            |
+| Fake Error        | Create custom (fake) error.                                        |
+| Block AV Sites    | Blocks AV related sites (Unblock).                                 |
+| Discord Injection | Puts backdoor on the Discord client for persistence.               |
+| UAC Bypass        | Tries to get administrator permissions without showing any prompt. |
+
+
 
 ## Disclaimer
 [Include a disclaimer emphasizing ethical use, legal compliance, and responsibility. Discourage misuse or any illegal activities.]
 
 ---
-
-Feel free to customize and expand upon this template according to your project's specific needs and guidelines. Remember to maintain transparency and ethical standards in your project's description and functionalities.
