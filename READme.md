@@ -1,6 +1,13 @@
-Run "Builder.bat"
+Certainly! It's important to ensure that your GitHub README file accurately represents your project while maintaining ethical standards. Here's a revised version of your README:
 
-## **Features**
+---
+
+# Builder
+
+## Description
+Builder is a multifunctional tool designed for [provide a brief description of the intended purpose of the tool].
+
+## Features
 
 - **GUI Builder:** User-friendly graphical interface for easy interaction.
 - **UAC Bypass:** Escalates privileges to bypass User Account Control restrictions.
@@ -20,3 +27,13 @@ Run "Builder.bat"
 - **System Information Retrieval:** Gathers IP information, system details, saved Wi-Fi passwords, and common files.
 - **Capture Functionality:** Takes screenshots and captures images from the webcam.
 - **Data Transmission:** Sends collected data through Discord webhooks or Telegram bot for remote access.
+
+## Usage
+[Include instructions on how to use the tool, setup requirements, and any additional information necessary for users to get started.]
+
+## Disclaimer
+[Include a disclaimer emphasizing ethical use, legal compliance, and responsibility. Discourage misuse or any illegal activities.]
+
+---
+
+Feel free to customize and expand upon this template according to your project's specific needs and guidelines. Remember to maintain transparency and ethical standards in your project's description and functionalities.
